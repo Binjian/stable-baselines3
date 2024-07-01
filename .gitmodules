@@ -1,0 +1,6 @@
+[submodule "rl-colab-notebooks"]
+	path = rl-colab-notebooks
+	url = git@github.com:Binjian/rl-colab-notebooks.git
+[submodule "rl-tutorial-jnrr19"]
+	path = rl-tutorial-jnrr19
+	url = git@github.com:Binjian/rl-tutorial-jnrr19.git
